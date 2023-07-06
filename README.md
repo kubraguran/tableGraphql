@@ -11,8 +11,11 @@ In the project directory, you can run:
 
 
 
-### `cd server npm run dev `
+### `cd server `
+### `npm run dev `
 
+!After run the server go to setup file
+### `cd setup `
 ### `npm i react && npm start`
 
 
