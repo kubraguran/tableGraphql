@@ -80,9 +80,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # graphlq-shopping
 
-<img width="1383" alt="shopping react" src="https://user-images.githubusercontent.com/81765398/218322868-d631427c-359b-4dc5-96ea-a418c48052a9.png">
-
-
-
 
 <img width="1042" alt="Screenshot 2023-07-06 at 14 56 32" src="https://github.com/kubraguran/tableGraphql/assets/81765398/060c5273-9628-45ed-8152-4e1f3803b65d">
