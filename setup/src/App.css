@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.table {
+    height:17rem;
+}
+.pagination button{
+    margin-left: 5px;
+    display: flex;
+}
