@@ -77,8 +77,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# graphlq-shopping
-
-
+ 
 <img width="1042" alt="Screenshot 2023-07-06 at 14 56 32" src="https://github.com/kubraguran/tableGraphql/assets/81765398/060c5273-9628-45ed-8152-4e1f3803b65d">
